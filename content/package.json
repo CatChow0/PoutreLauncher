@@ -1,0 +1,17 @@
+{
+    "name": "poutre-launcher",
+    "version": "1.0.0",
+    "description": "le meilleur launcher de poutre",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^29.1.4",
+        "extract-file-icon": "^0.3.2",
+        "windows-shortcuts": "^0.1.6"
+    }
+}
